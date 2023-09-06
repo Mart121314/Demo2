@@ -1,0 +1,7 @@
+console.log("Oppgave: A");
+const sentence = ["Debuging er som å være en dektektiv i et krim drama hvor du også er morderen"]
+
+for(let index = 0; index <100; index++);{
+    console.log(index+sentence);
+}
+

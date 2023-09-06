@@ -1,0 +1,12 @@
+// Try fixing all the syntax errors in this Javascript code.
+let name = "Shamus McCoder";
+let age = 56;
+
+function sayHello(name, age){
+    console.log("Hello ", name,", you are ", age, " years old.");
+}
+sayHello(name, age);
+
+// There are a total of 7 mistakes in the above code. (6 are syntax issues)
+// When the above code is correct it sould display the following
+// Hello Shamus McCoder, you are 56 years old.
